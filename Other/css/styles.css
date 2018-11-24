@@ -24,14 +24,14 @@ h2 {
 }
 
 .www_title  { font-family: "Georgia,Palatino,Times,Roman";
-              font-size: 26pt;
+              font-size: 26pt; 
               text-align: center;}
 
-.www_sidebar  { text-align: center;
+.www_sidebar  { text-align: center; 
                font-family: "Georgia,Palatino,Times,Roman";
                font-size: 12pt;
                margin-left: 0em; margin-right: 0em;
-               padding: 0.15em 0.15em 0.15em .15em;
+               padding: 0.15em 0.15em 0.15em .15em; 
                width: 100%;
                background: url("/images/lines.gif");
                border: 2px solid #cccccc }
@@ -44,7 +44,7 @@ h2 {
                font-family: "Georgia,Palatino,Times,Roman";
                font-weight: bold; font-size: 18pt;
                background: url("/images/lines.gif");
-               padding: 0.1em 0.1em 0.1em .1em;
+               padding: 0.1em 0.1em 0.1em .1em; 
                width: 100%;
                margin-bottom: 0.3em; }
 
@@ -57,7 +57,7 @@ h2 {
                      width: 75%; }
 
 .www_code { border: solid 1px gray; background: #eeeeee;
-            margin: 0 1em 0 1em;
+            margin: 0 1em 0 1em; 
             padding: 0 1em 0 1em;
             display: table; }
 
